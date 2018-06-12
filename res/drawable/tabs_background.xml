@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- TAB REST STATE -->
+    <item android:state_selected="true">
+        <!-- Tab Indicator for selected tab state -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+            <item android:left="-7dp" android:right="-7dp" android:top="-7dp"><shape android:shape="rectangle">
+                    <stroke android:width="6dp" android:color="#34495e" />
+                </shape></item>
+        </layer-list></item>
+
+</selector>
