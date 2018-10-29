@@ -72,7 +72,6 @@ public class Schedule extends ActionBarActivity implements ActionBar.TabListener
 	public void onTabReselected(android.support.v7.app.ActionBar.Tab arg0,
 			FragmentTransaction arg1) {
 		// TODO Auto-generated method stub
-		
 	}
 
 	@Override

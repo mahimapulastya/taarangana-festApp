@@ -68,7 +68,6 @@ public class StarAttractions extends ActionBarActivity implements ActionBar.TabL
 	@Override
 	public void onTabReselected(android.support.v7.app.ActionBar.Tab arg0,
 			FragmentTransaction arg1) {
-		// TODO Auto-generated method stub
 
 	}
 
@@ -82,7 +81,6 @@ public class StarAttractions extends ActionBarActivity implements ActionBar.TabL
 	@Override
 	public void onTabUnselected(android.support.v7.app.ActionBar.Tab arg0,
 			FragmentTransaction arg1) {
-		// TODO Auto-generated method stub
 
 	}
 
