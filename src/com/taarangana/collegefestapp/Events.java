@@ -83,7 +83,5 @@ public class Events extends ActionBarActivity implements ActionBar.TabListener
 	@Override
 	public void onTabUnselected(android.support.v7.app.ActionBar.Tab arg0,
 			FragmentTransaction arg1) {
-		// TODO Auto-generated method stub
-
 	}
 }
