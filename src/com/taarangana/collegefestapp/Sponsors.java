@@ -61,13 +61,13 @@ public class Sponsors extends ActionBarActivity {
 
 		@Override
 		public int getCount() {
-			// TODO Auto-generated method stub
+
 			return desc.length;
 		}
 
 		@Override
 		public Object getItem(int arg0) {
-			// TODO Auto-generated method stub
+
 			return null;
 		}
 
